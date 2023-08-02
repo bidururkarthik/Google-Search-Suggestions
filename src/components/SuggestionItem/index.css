@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.relateddescriptioncontainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.relateddescription {
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.arrow {
+  height: 12px;
+  color: #bfbfbf;
+}
+
+.button {
+  background-color: white;
+  border-width: 0px;
+  height: 13px;
+  width: 13px;
+  margin-top: 15px;
+}
